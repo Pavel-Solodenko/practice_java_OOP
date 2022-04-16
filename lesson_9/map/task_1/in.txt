@@ -1,0 +1,4 @@
+word text English yes
+good example
+human
+last
