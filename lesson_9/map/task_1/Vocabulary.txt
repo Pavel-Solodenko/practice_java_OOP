@@ -1,7 +1,0 @@
-word слово
-English јнглийский
-text текст
-yes да
-good хорошо
-example пример
-human человек
